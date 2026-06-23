@@ -7,7 +7,6 @@
       <p class="footer-copy">© {{ year }} RzDev. All rights reserved.</p>
       <div class="footer-links">
         <a href="#products">Products</a>
-        <RouterLink to="/privacy/emojiverse">Privacy</RouterLink>
         <a href="#contact">Contact</a>
       </div>
     </div>
